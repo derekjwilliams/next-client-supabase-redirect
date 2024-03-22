@@ -2,6 +2,8 @@
 
 <p>The <pre><code>/app/notes/[id]/page.tsx</code></pre> file contains the code that provides client side redirect to the login page if the user is not logged in, as discussed in the Medium post</p>
 
+<a href="https://www.youtube.com/watch?v=Z4L_UE0hVmo">See see https://www.youtube.com/watch for walkthrough of setting up client side Next component and ReactQuery.  This repo is a variation on that example.</href>
+
 <h2>Uses Next JS and Supbase, that README follows below</h2>
 <a href="https://demo-nextjs-with-supabase.vercel.app/">
   <img alt="Next.js and Supabase Starter Kit - the fastest way to build apps with Next.js and Supabase" src="https://demo-nextjs-with-supabase.vercel.app/opengraph-image.png">
