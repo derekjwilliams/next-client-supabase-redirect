@@ -1,3 +1,8 @@
+<a href="https://medium.com/p/7082ea8c9448">Medium post for this code</a>
+
+<p>The <pre><code>/app/notes/[id]/page.tsx</code></pre> file contains the code that provides client side redirect to the login page if the user is not logged in, as discussed in the Medium post</p>
+
+<h2>Uses Next JS and Supbase, that README follows below</h2>
 <a href="https://demo-nextjs-with-supabase.vercel.app/">
   <img alt="Next.js and Supabase Starter Kit - the fastest way to build apps with Next.js and Supabase" src="https://demo-nextjs-with-supabase.vercel.app/opengraph-image.png">
   <h1 align="center">Next.js and Supabase Starter Kit</h1>
